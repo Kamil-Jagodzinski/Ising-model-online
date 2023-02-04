@@ -1,0 +1,3 @@
+/home/jamil/INZ/ChartsOnline/backend/CMakeFiles/BackendAPI.dir
+/home/jamil/INZ/ChartsOnline/backend/CMakeFiles/edit_cache.dir
+/home/jamil/INZ/ChartsOnline/backend/CMakeFiles/rebuild_cache.dir
